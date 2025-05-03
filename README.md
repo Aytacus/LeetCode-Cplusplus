@@ -16,4 +16,4 @@ This repository contains my C++ implementations for selected LeetCode problems. 
    - File: `MedianOfTwoSorted.cpp`  
    - Problem: Given two sorted arrays, find the median of the combined sorted array in O(log (m+n)) time.
 -----------------------------------------------------------------------------------------------------------
-**These Codes was written by Yücel Aytaç Akgün** 
+**These Codes were written by Yücel Aytaç Akgün** 
